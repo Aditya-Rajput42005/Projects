@@ -1,0 +1,12 @@
+net\edigest\journalApp\config\SpringSecurity.class
+net\edigest\journalApp\service\JournalEntryService.class
+net\edigest\journalApp\repository\UserRepository.class
+net\edigest\journalApp\JournalAppApplication.class
+net\edigest\journalApp\controller\JournalEntryController.class
+net\edigest\journalApp\entity\JournalEntry.class
+net\edigest\journalApp\entity\Users.class
+net\edigest\journalApp\controller\UserEntryController.class
+net\edigest\journalApp\controller\HealthCheck.class
+net\edigest\journalApp\repository\JournalEntryRepository.class
+net\edigest\journalApp\service\UserService.class
+net\edigest\journalApp\service\UserDetailsServiceImpl.class
